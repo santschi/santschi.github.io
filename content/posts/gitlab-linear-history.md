@@ -3,7 +3,7 @@ title = 'Enabling Linear History Workaround: Minimal Integration with Gitlab Mer
 date = 2024-04-08T17:07:30Z
 draft = false
 author = 'Sébastien'
-tags = ['Gitlab', 'DevOps', 'CI', 'Git', Monorepo']
+tags = ['Gitlab', 'DevOps', 'CI', 'Git', 'Monorepo']
 categories = ['DevOps']
 +++
 
